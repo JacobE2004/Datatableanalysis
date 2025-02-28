@@ -17,7 +17,7 @@ print("First few rows of the CSV:")
 print(df.head())
 
 
-redshift = 0.127
+redshift = 0.113
 
 
 def compute_absolute_mag(row):
